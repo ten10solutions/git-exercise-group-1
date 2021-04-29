@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Incy Wincy Spider climbed up the water spout
 Down came the rain, and washed the spider out
 
@@ -10,3 +11,8 @@ This my change - Jon W
 Out came the sunshine and dried up all the rain, and 
 Incy Wincy Spider climbed up the spout again
 >>>>>>> 0112791cbd5c80e0168ce28af43373b80c765706
+=======
+Roses are red
+Violets are blue
+Unexpected '{' on line 32
+>>>>>>> 338479c02bee90b250fd718a41fdc26481ae7d13
