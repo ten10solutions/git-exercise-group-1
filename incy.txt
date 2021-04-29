@@ -1,7 +1,10 @@
 <<<<<<< HEAD
-Incy Wincy Spider climbed up the water spout
-Down came the rain, and washed the spider out
+Mike is very sorry guys
 
+<<<<<<< HEAD
+Out came the sunshine and dried up all the rain, and
+Incy Wincy Spider never came back ever ever again.
+=======
 <<<<<<< HEAD
 Out came the sunshine and dried up all the rain, and
 Incy Wincy Spider climbed up the spout again.
@@ -20,3 +23,4 @@ Roses are red
 Violets are blue
 Unexpected '{' on line 32
 >>>>>>> 338479c02bee90b250fd718a41fdc26481ae7d13
+>>>>>>> 757acdb03504a6535da300b2846707f50e479544
