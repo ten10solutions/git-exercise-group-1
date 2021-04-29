@@ -5,7 +5,12 @@ Down came the rain, and washed the spider out
 <<<<<<< HEAD
 Out came the sunshine and dried up all the rain, and
 Incy Wincy Spider climbed up the spout again.
+<<<<<<< HEAD
 Read the standing orders! Read them and understand them!
+=======
+
+This my change - Jon W
+>>>>>>> 43f82927d02caa80830ae9ffc5dc29ae6a394b4b
 =======
 Out came the sunshine and dried up all the rain, and 
 Incy Wincy Spider climbed up the spout again
