@@ -1,6 +1,15 @@
-Incy Wincy Spider climbed up the water spout.
-Down came the rain, and washed the spider out.
+Incy Wincy Spider climbed up the drainpipe.
+Down poured the rain, and washed the spider out.
 
+<<<<<<< HEAD
 Out came the sunshine and dried up all the rain, and
 Incy Wincy Spider climbed up the spout again.
 i need coffee
+=======
+Out came the sunshine and dried up all the rain.
+Then Incy Wincy Spider climbed up the spout again.
+
+Mr Shire was here
+Now he is gone
+not a fan of spiders, Alex.
+>>>>>>> 1e31f6f367bdb87b943f256943ce75786f980d2e
